@@ -107,6 +107,28 @@ npm run dev           # Runs the React app on http://localhost:5173
 
 ---
 
+## Screenshots
+
+### 📍 Interactive Map with User Pins
+<img src="img/3.jpg" width="700"/>
+
+### 📊 Architecture Diagram
+<img src="img/1.jpg" alt="Skill Dashboard Screenshot" width="700"/>
+
+### 📊 Skill Dashboard with Analytics
+<img src="img/2.jpg" width="700"/>
+
+### 📧 Email Notification on Connect
+<img src="img/4.png" width="700"/>
+
+---
+
+## 📺 Demo Video
+
+Check out the demo video on [YouTube](https://www.youtube.com/watch?v=l5SXYwb2UZo)
+
+---
+
 ## 👥 Contributors
 
 - **Anuskha Iytha**
